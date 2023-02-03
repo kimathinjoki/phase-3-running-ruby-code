@@ -14,10 +14,22 @@
 # # 1 + 1
 # puts add + add
 
-def add num1, num2
-    puts num1
-    puts num2
-    num1 + num2
-end
+# def add num1, num2
+#     puts num1
+#     puts num2
+#     num1 + num2
+# end
 
-puts add(1,3) + add(2,2)
+# puts add(1,3) + add(2,2)
+
+# puts ("Hello World")
+# puts "Hello world!"
+# puts "Hello world!"
+puts "Hello World!"
+
+# print "Hello world!"
+# print "Hello world!"
+print "Pass this test, please."
+
+p [1,2,3]
+
